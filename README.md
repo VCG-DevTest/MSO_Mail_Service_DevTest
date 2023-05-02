@@ -1,5 +1,5 @@
 # MSO_Mail_Service_DevTest
-This is a python program based on Git Actions modified to automatically generate development actions via Microsoft Graph API for mail service testing.
+This is a python program for Microsoft mail service testing with Microsoft Graph API and Git Action.
 
 # Notice
 This repo may lead to unknown issues, problems, information leaks, etc. 
